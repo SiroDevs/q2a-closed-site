@@ -1,0 +1,11 @@
+{
+	"name": "Closed Site",
+	"description": "Allows a Q2A site to be locked to allow in registered users only, include support for adverts.",
+	"version": "1.5",
+	"date": "2014-09-20",
+	"author": "Siro Devs",
+	"author_uri": "https://github.com/SiroDevs",
+	"license": "GPLv2",
+	"min_q2a": "1.6",
+	"load_order": "after_db_init"
+}

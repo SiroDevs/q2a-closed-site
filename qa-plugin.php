@@ -9,7 +9,7 @@
 	Plugin Author URI: http://github.com/SiroDevs
 	Plugin License: GPLv3
 	Plugin Minimum Question2Answer Version: 1.6
-	Plugin Update Check URI: https://github.com/SiroDevs/q2a-closed-site-/master/closed-site/qa-plugin.php
+	Plugin Update Check URI: 
 
 */
 
