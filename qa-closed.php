@@ -1,15 +1,15 @@
 <?php
 /*
 	Plugin Name: Closed Site
-	Plugin URI: https://github.com/JackSiro/Q2A-Closed-Site-Plugin/
+	Plugin URI: https://github.com/SiroDevs/q2a-closed-site-/
 	Plugin Description: Allows for for locking the site to only logged users only.
 	Plugin Version: 1.5
 	Plugin Date: 2014-09-20
-	Plugin Author: Jackson Siro
-	Plugin Author URI: http://github.com/JackSiro
+	Plugin Author: Siro Devs
+	Plugin Author URI: http://github.com/SiroDevs
 	Plugin License: GPLv3
 	Plugin Minimum Question2Answer Version: 1.7
-	Plugin Update Check URI: https://github.com/JackSiro/Q2A-Closed-Site-Plugin/master/closed-site/qa-plugin.php 
+	Plugin Update Check URI: https://github.com/SiroDevs/q2a-closed-site-/master/closed-site/qa-plugin.php 
 
 */
 require_once QA_INCLUDE_DIR.'app/format.php';
